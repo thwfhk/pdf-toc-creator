@@ -1,0 +1,105 @@
+1 Type-free λ-calculus ; 1
+	1.1 λ-terms ; 1
+	1.2 Reduction ; 6
+	1.3 Informal interpretation ; 7
+	1.4 The Church-Rosser Theorem ; 8
+	1.5 Expressibility and undecidability ; 11
+	1.6 Historical remarks ; 19
+	1.7 Exercises ; 19
+2 Intuitionistic logic ; 23
+	2.1 Intuitive semantics ; 24
+	2.2 Natural deduction ; 25
+	2.3 Algebraic semantics of classical logic ; 28
+	2.4 Heyting algebras ; 30
+	2.5 Kripke semantics ; 34
+	2.6 The implicational fragment ; 36
+	2.7 Exercises ; 37
+3 Simply typed λ-calculus ; 41
+	3.1 Simply typed λ-calculus `a la Curry ; 41
+	3.2 Simply typed λ-calculus `a la Church ; 45
+	3.3 Church versus Curry typing ; 49
+	3.4 Normalization ; 51
+	3.5 Expressibility ; 52
+	3.6 Exercises ; 54
+4 The Curry-Howard isomorphism ; 57
+	4.1 Natural deduction without contexts ; 57
+	4.2 The Curry-Howard isomorphism ; 63
+	4.3 Consistency from normalization ; 68
+	4.4 Strong normalization ; 68
+	4.5 Historical remarks ; 71
+	4.6 Exercises ; 72
+5 Proofs as combinators ; 75
+	5.1 Combinatory logic ; 75
+	5.2 Typed combinators ; 79
+	5.3 Hilbert-style proofs ; 81
+	5.4 Relevance and linearity ; 83
+	5.5 Historical remarks ; 87
+	5.6 Exercises ; 87
+6 Type-checking and related problems ; 89
+	6.1 Hard and complete ; 90
+	6.2 The 12 variants ; 91
+	6.3 (First-order) unification ; 92
+	6.4 Type reconstruction algorithm ; 95
+	6.5 Eta-reductions ; 97
+	6.6 Type inhabitation ; 99
+	6.7 Equality of typed terms ; 101
+	6.8 Exercises ; 101
+7 Sequent calculus ; 105
+	7.1 Classical sequent calculus ; 106
+	7.2 Intuitionistic sequent calculus ; 109
+	7.3 Cut elimination ; 113
+	7.4 Term assignment for sequent calculus ; 115
+	7.5 The general case ; 118
+	7.6 Alternative term assignment ; 121
+	7.7 Exercises ; 125
+8 Classical logic and control operators ; 127
+	8.1 Classical propositional logic, implicational fragment ; 127
+	8.2 The full system ; 131
+	8.3 Terms for classical proofs ; 132
+	8.4 Classical proof normalization ; 133
+	8.5 Definability of pairs and sums ; 135
+	8.6 Embedding into intuitionistic propositional logic ; 136
+	8.7 Control operators and CPS translations ; 138
+	8.8 Historical remarks ; 140
+	8.9 Exercises ; 141
+9 First-order logic ; 143
+	9.1 Syntax of first-order logic ; 143
+	9.2 Intuitive semantics ; 145
+	9.3 Proof systems ; 146
+	9.4 Semantics ; 150
+	9.5 Exercises ; 153
+10 Dependent types ; 155
+	10.1 System λP ; 156
+	10.2 Rules of λP ; 158
+	10.3 Properties of λP ; 159
+	10.4 Dependent types a la Curry ; 161
+	10.5 Existential quantification ; 162
+	10.6 Correspondence with first-order logic ; 163
+	10.7 Exercises ; 165
+11 First-order arithmetic and Godel’s T ; 169
+	11.1 The language of arithmetic ; 169
+	11.2 Peano Arithmetic ; 170
+	11.3 Representable and provably recursive functions ; 172
+	11.4 Heyting Arithmetic ; 174
+	11.5 Kleene’s realizability interpretation ; 176
+	11.6 G¨odel’s System T ; 179
+	11.7 G¨odel’s Dialectica interpretation ; 183
+	11.8 Exercises ; 187
+12 Second-order logic and polymorphism ; 191
+	12.1 Propositional second-order formulas ; 191
+	12.2 Semantics ; 193
+	12.3 Polymorphic lambda-calculus (System F) ; 196
+	12.4 Expressive power ; 199
+	12.5 Curry-style polymorphism ; 203
+	12.6 Strong normalization of second-order typed λ-calculus ; 205
+	12.7 Exercises ; 207
+13 The λ-cube and pure type systems ; 209
+	13.1 Introduction ; 209
+	13.2 Barendregt’s λ-cube ; 211
+	13.3 Example derivations ; 214
+	13.4 Classification and equivalence with previous formulations ; 217
+	13.5 Pure type systems ; 219
+	13.6 Examples of pure type systems ; 221
+	13.7 Properties of pure type systems ; 222
+	13.8 The Barendregt-Geuvers-Klop conjecture ; 225
+14 Solutions and hints to selected exercises ; 227
