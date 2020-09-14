@@ -1,6 +1,9 @@
 ## pdf-toc-creator
 为PDF文档创建目录
 
+## Update
+python3支持
+
 
 ## 用法
 ### 参数说明
@@ -13,5 +16,5 @@
 
 ## 用例
 ```
-python pdf-toc-creator.py -f InfoQ-2020中国技术发展白皮书.pdf -o 3 -t toc-infoq.txt
+python pdf-toc-creator.py -f target.pdf -o 11 -t toc_exampled.txt
 ```
